@@ -1,0 +1,16 @@
+.container {
+    max-width: 1140px;
+    padding: 0 20px;
+    margin: 0 auto;
+  }
+.wrapper {
+  padding: 0 50% auto;
+  transform: translateX(50%);
+}
+h1 {
+  color: blue;
+}
+h3 {
+  font-style:italic;
+  color: darkgrey;
+}
